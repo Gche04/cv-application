@@ -11,7 +11,7 @@ https://www.theodinproject.com/courses/javascript/lessons/cv-application
 
 ### Applied Skills
 * useState hook
-* class componenets
+* functional componenets
 * forms in a React app
 
 #### Notes
